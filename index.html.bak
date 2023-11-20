@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+</style>
+</head>
+<body>
+
+<a href="index.php" target="_blank">Link zeleno crveni</a> 
+
+</body>
+</html>
+
